@@ -23,3 +23,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto para aprimorar os conhecimento em JS.
+<br>
+Clique aqui para jogar https://carolsilva-dev.github.io/Jogo-Da-Velha/
